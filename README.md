@@ -1,4 +1,5 @@
-# Birth Date Numerology: Does your birth date sum total 8?
+# Does your birth date sum total 8?
+Birth Date Numerology
 User friendly python program to find out if the sum of your birth date(tens place + units place) is 8 or not.
 
 How to use
